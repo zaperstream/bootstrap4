@@ -1,4 +1,4 @@
 # bootstrap4
 
-## Deploy usando PHP
- - webhook para o php;
+## Testar deploy SSH
+ - Efetuar teste de deploy public;
